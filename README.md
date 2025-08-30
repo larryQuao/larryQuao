@@ -20,6 +20,12 @@ I'm a passionate **UI/UX and Front-End Developer** with experience in **Figma, R
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
+## Get in Touch 📬
+
+<!-- - **[Personal Website / Blog]**(your_website_or_blog_link) -->
+- **[LinkedIn]**(www.linkedin.com/in/lawrence-quao-0579912b2)
+- **[Twitter]**(https://x.com/quaoLarry)
+
 
 <!-- <h1 align="center">Hi 👋, I'm Lawrence Tetteh Quao</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer from Ghana</h3>
@@ -54,9 +60,4 @@ I'm a passionate **UI/UX and Front-End Developer** with experience in **Figma, R
 
 **[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link). -->
 
-## Get in Touch 📬
-
-<!-- - **[Personal Website / Blog]**(your_website_or_blog_link) -->
-- **[LinkedIn]**(www.linkedin.com/in/lawrence-quao-0579912b2)
-- **[Twitter]**(https://x.com/quaoLarry)
 
