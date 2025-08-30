@@ -23,8 +23,8 @@ I'm a passionate **UI/UX and Front-End Developer** with experience in **Figma, R
 ## Get in Touch 📬
 
 <!-- - **[Personal Website / Blog]**(your_website_or_blog_link) -->
-- **[LinkedIn]**(www.linkedin.com/in/lawrence-quao-0579912b2)
-- **[Twitter]**(https://x.com/quaoLarry)
+- **[LinkedIn] **(www.linkedin.com/in/lawrence-quao-0579912b2)
+- **[Twitter] **(https://x.com/quaoLarry)
 
 
 <!-- <h1 align="center">Hi 👋, I'm Lawrence Tetteh Quao</h1>
