@@ -1,7 +1,7 @@
 # Hi there, I'm Lawrence Tetteh Quao! 👋
 
 <!-- You can add a banner later. A good place to make one is https://canva.com/ -->
-![Banner Image](https://via.placeholder.com/1024x320/2D3748/FFFFFF?text=Lawrence+Tetteh+Quao+-+UI/UX+%26+Front-End+Developer) 
+<!-- ![Banner Image](https://via.placeholder.com/1024x320/2D3748/FFFFFF?text=Lawrence+Tetteh+Quao+-+UI/UX+%26+Front-End+Developer) -->
 
 ## 🚀 About Me
 
