@@ -31,9 +31,9 @@ I'm a passionate **UI/UX Designer and Front-End Developer** with experience in *
 ## 📊 GitHub Stats
 
 <!-- This is a placeholder. You can generate your own stats at https://github.com/anuraghazra/github-readme-stats -->
-![Lawrence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Lawrence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=larryQuao&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=larryQuao&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
 
