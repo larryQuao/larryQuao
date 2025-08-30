@@ -1,31 +1,53 @@
 # Hi there, I'm Lawrence Tetteh Quao! 👋
 
-![Banner Image](your_banner_image_url_here)
+<!-- You can add a banner later. A good place to make one is https://canva.com/ -->
+![Banner Image](https://via.placeholder.com/1024x320/2D3748/FFFFFF?text=Lawrence+Tetteh+Quao+-+UI/UX+%26+Front-End+Developer) 
 
-## About Me 🚀
+## 🚀 About Me
 
-I'm a passionate **UI/UX and Front-End Developer** with experience in **Figma, React**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **UI/UX Designer and Front-End Developer** with experience in **Figma, React, and modern web technologies**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative and user-centric solutions.
 
-- 🌱 Currently learning: **Next.JS**
-<!-- - 🔭 Working on: **[current projects or side-projects]** -->
-- 🌍 Languages: **JavaScript, HTML, Tailwindcss, CSS, BASH, Node.js, React**
-- 📫 How to reach me: **honyadjilawrence2s1@gmail.com**
-- ⚡ Fun fact: **I love watching and reading historical documentaries of prestigious personalities**
+- 🌱 **Currently learning:** Next.JS
+- 💼 **Seeking:** Opportunities in Front-End Development and UI/UX Design
+- 🌍 **Languages & Technologies:** JavaScript, HTML, Tailwind CSS, CSS, BASH, Node.js, React
+- 📫 **How to reach me:** honyadjilawrence2s1@gmail.com
+- ⚡ **Fun fact:** I love watching and reading historical documentaries about prestigious personalities.
 
-## My Skills 🧠
+## 🛠️ Tech Stack & Skills
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+**Frontend & Design:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Get in Touch 📬
+**Backend & Tools:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<!-- - **[Personal Website / Blog]**(your_website_or_blog_link) -->
-- **[LinkedIn] **(www.linkedin.com/in/lawrence-quao-0579912b2)
-- **[Twitter] **(https://x.com/quaoLarry)
+## 📊 GitHub Stats
 
+<!-- This is a placeholder. You can generate your own stats at https://github.com/anuraghazra/github-readme-stats -->
+![Lawrence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+## 📫 Get in Touch
+
+- **[LinkedIn](https://www.linkedin.com/in/lawrence-quao-0579912b2)** 
+- **[Twitter / X](https://x.com/quaoLarry)** 
+- **Email:** honyadjilawrence2s1@gmail.com
+
+---
+
+<!-- ⭐️ *From [LawrenceQuao](https://github.com/YOUR_USERNAME)*
+
+- Let's connect professionally!
+- Follow me for tech insights and updates.
+-->
 
 <!-- <h1 align="center">Hi 👋, I'm Lawrence Tetteh Quao</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer from Ghana</h3>
